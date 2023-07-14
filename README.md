@@ -28,5 +28,5 @@
 
 <div align="left">
 <br><p align="left"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{KennedyMotta}/count.svg" /></p> 
+<p align="center"><img align="left" src="https://profile-counter.glitch.me/{KennedyMotta}/count.svg" /></p> 
 <br></div>
