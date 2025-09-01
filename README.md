@@ -1,6 +1,6 @@
 ### <img Align = "center" alt ="MarioGif" width= "80" src="https://gamerview.uai.com.br/wp-content/uploads/2019/12/mario-gif.gif"/> <strong>Sobre mim: Kennedy.obterFormação();</strong>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1e1e1e&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Kennedy+Motta;Tenho+21+Anos+de+Idade;Eu+sou+de+Porto+Alegre,+RS;Eu+estudo+Ciência+da+Computação+na+Unisul+SC;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1e1e1e&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Kennedy+Motta;Tenho+22+Anos+de+Idade;Eu+sou+de+Porto+Alegre,+RS;Eu+estudo+Ciência+da+Computação+na+Unisul+SC;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
  Formado em Comunicação Visual (2022 - IFSC) //
  Atualmente estou Cursando Ciências da Computação na UNISUL (desde 2023).ﾠ
