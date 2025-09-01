@@ -26,7 +26,7 @@
 <img Align = "center" alt ="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </div>
 
-<div align="left">
-<br><p align="left"><b>Visitors Count</b></p>  
-<img src="https://hits.linklify.app/view?url=https%3A%2F%2Fgithub.com%2FKennedyMotta&countColor=%23000000&label=Visitors&labelColor=%23ffffff&style=flat-square" alt="Hits"/> 
-<br></div>
+<p align="left"><b>Visitors Count</b></p>  
+<p align="left">
+  <img src="https://hits.linklify.app/view?url=https%3A%2F%2Fgithub.com%2FKennedyMotta&countColor=%23000000&label=Visitors&labelColor=%23ffffff&style=flat-square" alt="Hits"/>
+</p>
