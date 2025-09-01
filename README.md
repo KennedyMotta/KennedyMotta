@@ -1,4 +1,4 @@
-### <img Align = "center" alt ="MarioGif" width= "80" src="https://media.tenor.com/2eIdqvfcIrkAAAAM/taking-off-shades-mario.gif"/> <strong>Sobre mim: Kennedy.obterFormação();</strong>
+### <img Align = "center" alt ="MarioGif" width= "80" src="https://i.pinimg.com/originals/3c/f4/42/3cf442eb0574a06127a2db3a6bd6e633.gif"/> <strong>Sobre mim: Kennedy.obterFormação();</strong>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1e1e1e&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Kennedy+Motta;Tenho+22+Anos+de+Idade;Eu+sou+de+Porto+Alegre,+RS;Eu+estudo+Ciência+da+Computação+na+Unisul+SC;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
@@ -28,5 +28,5 @@
 
 <div align="left">
 <br><p align="left"><b>Visitors Count</b></p>  
-<p align="center"><img align="left" src="https://profile-counter.glitch.me/KennedyMotta/count.svg" /></p> 
+<img src="https://hits.linklify.app/view?url=https%3A%2F%2Fgithub.com%2FKennedyMotta&countColor=%23000000&label=Visitors&labelColor=%23ffffff&style=flat-square" alt="Hits"/> 
 <br></div>
