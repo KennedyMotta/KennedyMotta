@@ -9,7 +9,7 @@
 ### Sobre Mim
 Atualmente cursando **Ciência da Computação na UNISUL (desde 2023)**.  
 Formado em **Comunicação Visual (2022 - IFSC)**  
-Amante de Games e tecnologia. 
+Explorador de novas **tecnologias**.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/Kennedy-Motta" target="_blank">
