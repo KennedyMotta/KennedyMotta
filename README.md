@@ -7,14 +7,9 @@
 **Designer Gráfico & UX | Front-End Developer | Editor de Vídeo**
 
 ### Sobre Mim
+Atualmente cursando **Ciência da Computação na UNISUL (desde 2023)**.  
 Formado em **Comunicação Visual (2022 - IFSC)**  
-e atualmente cursando **Ciência da Computação na UNISUL (desde 2023)**.  
-
-Atuo com design visual, desenvolvimento front-end  
-e edição de vídeo, explorando novas tecnologias.  
-
-Apaixonado por games e criatividade,  
-busco transformar ideias em soluções envolventes. 🚀
+Amante de Games e tecnologia. 
 
 <p align="center">
   <a href="https://www.linkedin.com/in/Kennedy-Motta" target="_blank">
