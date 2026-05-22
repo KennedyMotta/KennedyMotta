@@ -42,3 +42,8 @@ Atualmente cursando Ciência da Computação na UNISUL (desde 2023).ﾠ
 <img align="center" alt="CSharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 
 </div>
+
+### Atividade no GitHub
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Game" />
+</p>
