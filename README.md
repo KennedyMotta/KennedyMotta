@@ -2,13 +2,19 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1e1e1e&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Kennedy+Motta;Tenho+23+Anos+de+Idade;Eu+sou+de+Porto+Alegre,+RS;Eu+estudo+Ciência+da+Computação+na+Unisul+SC;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-Formado em Comunicação Visual (2022 - IFSC)  
-Atualmente cursando Ciência da Computação na UNISUL (desde 2023)  
+### Kennedy da Silva Motta
 
-Sou Kennedy da Silva Motta, Designer Gráfico e Front-End Developer, também atuando como Editor de Vídeo.  
-Apaixonado por transformar ideias em experiências digitais, gosto de explorar soluções criativas e novas tecnologias.  
+**Designer Gráfico & UX | Front-End Developer | Editor de Vídeo**
 
-Quando não estou codando ou criando designs, você pode me encontrar jogando ou descobrindo novas tendências em games e tecnologia. 🚀
+### Sobre Mim
+Formado em **Comunicação Visual (2022 - IFSC)**  
+e atualmente cursando **Ciência da Computação na UNISUL (desde 2023)**.  
+
+Atuo com design visual, desenvolvimento front-end  
+e edição de vídeo, explorando novas tecnologias.  
+
+Apaixonado por games e criatividade,  
+busco transformar ideias em soluções envolventes. 🚀
 
 <p align="center">
   <a href="https://www.linkedin.com/in/Kennedy-Motta" target="_blank">
