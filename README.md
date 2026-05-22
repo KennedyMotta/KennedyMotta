@@ -7,7 +7,7 @@
 **Designer Gráfico & UX | Front-End Developer | Editor de Vídeo**
 
 ### Sobre Mim
-Atualmente cursando **Ciência da Computação na UNISUL (desde 2023)**.  
+Cursando **Ciência da Computação na UNISUL (desde 2023)**.  
 Formado em **Comunicação Visual (2022 - IFSC)**  
 Explorador de novas **tecnologias**.
 
