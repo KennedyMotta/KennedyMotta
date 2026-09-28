@@ -11,8 +11,6 @@
 
 ---
 
-### Sobre Mim
-
 Cursando **Ciência da Computação na UNISUL (desde 2023)**.  
 Formado em **Comunicação Visual (2022 - IFSC)**
 Explorador de novas **tecnologias**.
