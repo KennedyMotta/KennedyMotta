@@ -1,5 +1,5 @@
 <div align="center">
-  <p><img align="center" alt="MarioGif" width="68" src="https://i.pinimg.com/originals/3c/f4/42/3cf442eb0574a06127a2db3a6bd6e633.gif" /> <strong>Sobre mim: Kennedy.obterFormação();</strong></p>
+  <p align="left"><img align="left" alt="MarioGif" width="68" src="https://i.pinimg.com/originals/3c/f4/42/3cf442eb0574a06127a2db3a6bd6e633.gif" /> <strong>Sobre mim: Kennedy.obterFormação();</strong></p>
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=28&center=true&vCenter=true&width=900&lines=Olá,+Meu+Nome+é+Kennedy+Motta;Tenho+23+Anos+de+Idade;Eu+sou+de+Porto+Alegre,+RS;Eu+estudo+Ciência+da+Computação+na+Unisul+SC;Be+Welcome!+:%29" alt="Olá, meu nome é Kennedy Motta" />
